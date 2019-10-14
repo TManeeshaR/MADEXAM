@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ModelPaper</string>
+    <string name="username">User Name</string>
+    <string name="password">Password</string>
+    <string name="login">Log In</string>
+    <string name="register">Register</string>
+    <string name="update">Update</string>
+    <string name="gender">Gender</string>
+    <string name="dateOfBirth">Date of birth</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="search">Search</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+</resources>
